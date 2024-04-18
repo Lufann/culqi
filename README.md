@@ -30,7 +30,7 @@ Este repositorio contiene el código y la configuración de Docker para un reto 
 1. **Clona el repositorio**:
 
     ```shell
-    git clone <https://github.com/Lufann/culqi>
+    git clone https://github.com/Lufann/culqi
     cd culqi
     ```
 2. **Instala las dependencias**:
