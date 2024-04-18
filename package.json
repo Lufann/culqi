@@ -1,0 +1,13 @@
+{
+  "name": "culqi",
+  "version": "1.0.0",
+  "description": "Este repositorio contiene el código y la configuración de Docker para un reto técnico de Culqi. El proyecto utiliza un servidor Node.js con Express, junto con una base de datos MongoDB, para manejar un ejercicio que involucra operaciones con cadenas y palabras.",
+  "main": "index.js",
+  "repository": "https://github.com/Lufann/culqi.git",
+  "author": "Jasmin Huerta",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.2"
+  }
+}
